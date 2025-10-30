@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV, Excel, or other data files
+*.csv
+*.xlsx
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
+.idea/
